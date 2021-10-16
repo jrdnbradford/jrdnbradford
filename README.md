@@ -1,4 +1,4 @@
-# Jordan Bradford 🤘
+# Jordan Bradford 🤘🏼
 <img align="right" height=200 src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif">
 
 [![Linkedin: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
