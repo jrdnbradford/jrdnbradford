@@ -1,5 +1,5 @@
 # Jordan Bradford 🤘
-<iframe align='right' src="https://giphy.com/embed/hjvinhl1pUrb1gdzlV" width="240" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-hjvinhl1pUrb1gdzlV"></a>
+<img align="right" height=200 src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif">
 
 [![Linkedin: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
 [![GitHub jrdnbradford](https://img.shields.io/github/followers/jrdnbradford?label=follow&style=social)](https://github.com/jrdnbradford)
