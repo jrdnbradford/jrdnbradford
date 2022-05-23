@@ -1,24 +1,15 @@
-# Jordan Bradford 🤘🏼
-<img align="right" height=200 src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif">
+# Jordan Bradford [![GitHub jrdnbradford](https://img.shields.io/github/followers/jrdnbradford?label=follow&style=social)](https://github.com/jrdnbradford) [![LinkedIn: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
 
-[![Linkedin: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
-[![GitHub jrdnbradford](https://img.shields.io/github/followers/jrdnbradford?label=follow&style=social)](https://github.com/jrdnbradford)
+Systems administrator, application developer, and data enthusiast who almost always has a [Dracula themed](https://github.com/dracula/dracula-theme) terminal or IDE open. 🤘🏼
 
+- 📊 Proponent of open-source data science and analytics, particularly [R programming](https://www.r-project.org/) with the [Tidyverse](https://www.tidyverse.org/)
+
+- 👨🏻‍💻 Always building or automating things with 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=R&logoColor=1f65b7)
 ![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=PowerShell)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=GNUBash)
 
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+- 💼 MBA candidate at [Boston College](https://www.bc.edu/)
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows)
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=JiraSoftware&logoColor=0052cc)
-![BitBucket](https://img.shields.io/badge/BitBucket-05122A?style=flat&logo=BitBucket&logoColor=0052cc)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter)
+- 🎸  Heavy metal connoisseur
