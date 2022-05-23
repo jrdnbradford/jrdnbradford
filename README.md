@@ -6,6 +6,7 @@ Systems administrator, application developer, and data enthusiast who almost alw
 
 - 👨🏻‍💻 Always building or automating things with 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=R&logoColor=1f65b7)
 ![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=PowerShell)
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=GNUBash)
