@@ -1,5 +1,5 @@
 # Jordan Bradford 🤘🏼
-<img align="right" height=200 src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdnbradford&langs_count=5&count_private=true&show_icons=true&theme=dracula)](https://github.com/jrdnbradford/github-readme-stats)
 
 [![Linkedin: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
 [![GitHub jrdnbradford](https://img.shields.io/github/followers/jrdnbradford?label=follow&style=social)](https://github.com/jrdnbradford)
