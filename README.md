@@ -1,6 +1,6 @@
 # Jordan Bradford [![GitHub jrdnbradford](https://img.shields.io/github/followers/jrdnbradford?label=follow&style=social)](https://github.com/jrdnbradford) [![LinkedIn: Jordan](https://img.shields.io/badge/-Jordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdnbradford/)](https://www.linkedin.com/in/jrdnbradford/)
 
-Systems administrator, application developer, and data enthusiast who almost always has a [Dracula themed](https://github.com/dracula/dracula-theme) terminal or IDE open. 🤘🏼
+Systems administrator, application developer, and data enthusiast who almost always has a [Dracula themed](https://github.com/dracula/dracula-theme) 🧛🏻‍♂️ terminal or IDE open. 🤘🏼
 
 - 📊 Proponent of open-source data science and analytics, particularly [R programming](https://www.r-project.org/) with the [Tidyverse](https://www.tidyverse.org/)
 
@@ -13,4 +13,4 @@ Systems administrator, application developer, and data enthusiast who almost alw
 
 - 💼 MBA candidate at [Boston College](https://www.bc.edu/)
 
-- 🎸  Heavy metal connoisseur
+- 🎸  Heavy metal connoisseur and 🧟 horror fan
