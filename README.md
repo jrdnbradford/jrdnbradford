@@ -10,10 +10,12 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?&logo=Microsoft-Azure)
 
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?logo=Terraform)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-05122A?logo=OpenTofu)
 ![Docker](https://img.shields.io/badge/Docker-05122A?logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?logo=Kubernetes)
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=R&logoColor=1f65b7)
 ![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=PowerShell)
